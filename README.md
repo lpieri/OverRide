@@ -4,6 +4,10 @@
 
 Dernier projet de la branche sécurité de 42 Born2Code.
 
+## Note
+
+**125**/100
+
 ## Sommaire
 
 [Level 00](/level00/)
